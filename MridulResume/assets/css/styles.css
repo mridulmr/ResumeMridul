@@ -1598,7 +1598,7 @@ li .fa {
   float: none;
   text-align: center;
   border: 20px solid rgba(0, 0, 0, 0.17);
-  border-radius: 50%;
+  /* border-radius: 50%; */
 }
 
 .mh-home .img-border {
